@@ -7,7 +7,7 @@ Hi everyone, I'm writing this from a translator, so yes, in short, this is my pr
 Connection diagram:
 Hall sensor 7-pin
 Button 2-pin
-SDA display 8-pin
+SDA display 9-pin
 SCL display 8-pin
 VCC-5V/3.3V
 GND-GND
