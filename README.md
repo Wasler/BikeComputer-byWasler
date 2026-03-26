@@ -4,3 +4,10 @@ Hi everyone, I'm writing this from a translator, so yes, in short, this is my pr
 ![photo_2026-03-26_21-42-53](https://github.com/user-attachments/assets/73964f6d-b769-4962-9501-9a8ee578fc59)
 ![photo_2026-03-26_21-42-49](https://github.com/user-attachments/assets/4139fefe-29c2-4dc6-a5e2-fcf21515cbd7)
 
+Connection diagram:
+Hall sensor 7-pin
+Button 2-pin
+SDA display 8-pin
+SCL display 8-pin
+VCC-5V/3.3V
+GND-GND
